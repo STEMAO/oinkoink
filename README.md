@@ -1,4 +1,4 @@
-# PASC project: "Protect and Serve... Capital"
+# PASC: "Protect and Serve... Capital"
 Bringing Accountability to Police Brutality
 
 ## Problem:
